@@ -1,6 +1,6 @@
 # Cafe Map Server
 
-### Data From [Cafenomad](https://cafenomad.tw/)
+### DataSet From [Cafenomad](https://cafenomad.tw/)
 Integrate cafenomad api and use openstreetmap to show info on server
 
 ## Overview
