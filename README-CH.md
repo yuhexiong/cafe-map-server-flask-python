@@ -1,7 +1,7 @@
 # Cafe Map Server
 
 
-### Data From [Cafenomad](https://cafenomad.tw/)
+### DataSet From [Cafenomad](https://cafenomad.tw/)
 整合 Cafenomad API，並使用 OpenStreetMap 在伺服器上顯示資訊。
 
 ## Overview
