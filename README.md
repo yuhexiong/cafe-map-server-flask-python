@@ -1,5 +1,9 @@
 # Cafe Map Server
 
+
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
+
+
 ### Data From [Cafenomad](https://cafenomad.tw/)
 Integrate cafenomad api and use openstreetmap to show info on server
 
@@ -8,7 +12,7 @@ Integrate cafenomad api and use openstreetmap to show info on server
 - Language: Python v3.9.15
 - Web FrameWork: Flask v3.0.0
 
-### run
+## Run
 
 ```
 python app.py
